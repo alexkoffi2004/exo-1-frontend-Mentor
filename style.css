@@ -31,7 +31,7 @@ body{
 
 .Perfume p{
     margin: 11px 0 5px ;
-    font-family: 'Heebo';
+    font-family: 'montserrat';
     text-transform: uppercase;
     letter-spacing: 5px;
     font-size: 11px;
@@ -60,11 +60,10 @@ body{
 }
 
 .price .simple {
-    font-family: 'montserrat';
+    font-family: 'fraunces';
     margin: 0px;
     font-size: 30px;
     font-weight: bold;
-    font-family: 'roboto';
     color: hsl(158, 36%, 37%);
 }
 
